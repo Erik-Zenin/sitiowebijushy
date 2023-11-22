@@ -1,0 +1,66 @@
+.navbar-nav .nav-link {
+    color: #000000;
+}
+
+.navbar-nav .nav-link:hover {
+    color: #ff6347;
+}
+
+.bg-ijushy {
+    background-color: #ff6347;
+}
+
+.icon-size {
+    max-width: 100px;
+    height: auto;
+}
+
+.social-icon {
+    max-width: 30px;
+    height: auto;
+    margin: 0 10px;
+}
+
+.book-icon {
+    max-width: 180px;
+    height: auto;
+    display: block;
+    margin: 10px auto;
+}
+
+.contact-info {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.contact-icon {
+    margin-right: 10px;
+    width: 24px;
+    height: auto;
+}
+
+.contact-text {
+    margin: 0;
+}
+
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+    width: 100%;
+}
+
+.text-rojo {
+    color: #DC3545;
+}
+
+.card-title {
+    text-align: center;
+    font-size: 2rem;
+}
+
+p.text-justify {
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
